@@ -78,8 +78,8 @@ components:
     depends_on:
       - common-utils
   - name: ml-commons
-    repository: https://github.com/opensearch-project/ml-commons.git
-    ref: tags/3.3.2.0
+    repository: https://github.com/joshpalis/ml-commons.git
+    ref: perftest
     platforms:
       - linux
       - windows
